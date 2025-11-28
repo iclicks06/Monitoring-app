@@ -1,5 +1,9 @@
 # Monitoring-app
 
+# make a folder inside the Monitoring app named build then add a png file for the exe to look like
+monitoring-app/build/your.png
+
+
 # Employee Activity Monitoring & Attendance Tracking
 
 A full-featured desktop application for monitoring employee activity, attendance, and productivity, built with Electron, React, TypeScript, and Node.js.
